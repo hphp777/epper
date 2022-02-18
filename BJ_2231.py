@@ -18,7 +18,7 @@ def findG(N): # 분해합을 리턴하는 함수
 
 N = int(input())
 
-flag = False
+flag = False  
 
 for i in range(N):
     if findG(i) == N:

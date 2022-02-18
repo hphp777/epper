@@ -47,4 +47,4 @@ for n in range(1, len(sentence)):
         answer += 1
 
 print(answer)
-
+  

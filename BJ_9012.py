@@ -15,7 +15,7 @@ for i in range(iter):
     sentence.append(new)
 
 for n in range(iter):
-    open = 0
+    open = 0  
     close = 0
     answer = 0
 

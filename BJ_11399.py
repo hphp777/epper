@@ -19,7 +19,7 @@
 n = int(input()) # number of people
 w = list(map(int,input().split())) # waiting time
 
-total = 0
+total = 0  
 
 w.sort()
 
